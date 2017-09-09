@@ -1,6 +1,7 @@
 # python3-auto-abstracts
 
-## Demo
+[![license](https://img.shields.io/github/license/u6k/python3-auto-abstracts.svg)](https://github.com/u6k/python3-auto-abstracts/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/u6k/python3-auto-abstracts.svg)](https://github.com/u6k/python3-auto-abstracts/releases)
 
 - [日本語文書の自動要約アルゴリズムを60年近く前の論文を頼りに再記述する](http://media.accel-brain.com/auto-abstractor-jp/)
 
@@ -99,3 +100,12 @@ auto_abstractsをpipでインストールします。
 ```
 $ pip install git+https://github.com/u6k/python3-auto-abstracts.git
 ```
+
+## Author
+
+- [u6k/python3-auto-abstracts](https://github.com/u6k/python3-auto-abstracts)
+- forked from [chimera0/python3-auto-abstracts](https://github.com/chimera0/python3-auto-abstracts)
+
+## License
+
+[![MIT License](https://img.shields.io/github/license/u6k/python3-auto-abstracts.svg)](https://github.com/u6k/python3-auto-abstracts/blob/master/LICENSE)
