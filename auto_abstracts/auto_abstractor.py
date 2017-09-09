@@ -7,8 +7,7 @@ from pyquery import PyQuery as pq
 import urllib.request
 import nltk
 import numpy
-from interface.readable_web_pdf import ReadableWebPDF
-
+from auto_abstracts.interface.readable_web_pdf import ReadableWebPDF
 
 class AbstractableDoc(metaclass=ABCMeta):
     '''
